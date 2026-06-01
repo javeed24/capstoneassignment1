@@ -236,7 +236,10 @@ Job3:Prod  Stop
 ![Ansible](screenshots/ansible-playbook.png)
 
 ### Jenkins Pipeline Overview
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+![Jenkins Pipeline](screenshots/jenkins-pipeline-1.png)
+![Jenkins Pipeline](screenshots/jenkins-pipeline-2.png)
+![Jenkins Pipeline](screenshots/jenkins-pipeline-3.png)
+![Jenkins Pipeline](screenshots/jenkins-pipeline-4.png)
 
 ### Job1 – Build
 ![Job1 Build](screenshots/job1-build.png)
